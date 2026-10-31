@@ -2,49 +2,51 @@
 
 SelfChef 🥗
 
-Healthy eating made simpler through smart meal planning.
+Mais praticidade. Mais saúde. Mais tempo para você.
 
-About the Project
+Sobre o projeto
 
-SelfChef is a web application designed to make healthy meal planning, recipe discovery, and grocery organization easier.
+O SelfChef é uma aplicação web criada para facilitar o planejamento alimentar, a descoberta de receitas saudáveis e a organização das compras do dia a dia.
 
-The project was created to bring practical food-planning tools together in one digital platform.
+A ideia surgiu da necessidade de reunir diferentes ferramentas de organização alimentar em uma única plataforma digital, oferecendo mais praticidade aos usuários.
 
-Main Features
+Principais funcionalidades
 
-- 500+ Recipes: A collection of recipes for everyday meal planning.
-- Weekly Meal Planner: Organize meals throughout the week.
-- Smart Grocery List: Simplify shopping and ingredient planning.
-- Smart Fridge: Manage ingredients and support meal organization.
-- User Experience: A practical, mobile-friendly interface.
+- Mais de 500 receitas: catálogo de receitas para diferentes refeições.
+- Planejador Semanal: organização do cardápio ao longo da semana.
+- Lista de Compras Inteligente: apoio à organização das compras e dos ingredientes.
+- Geladeira Inteligente: gerenciamento de ingredientes e apoio ao planejamento das refeições.
+- Interface responsiva: experiência adaptada ao uso em dispositivos móveis.
 
-Development Process
+Como o projeto foi desenvolvido
 
-SelfChef was developed with AI assistance using Google Gemini and ChatGPT.
+O SelfChef foi desenvolvido com assistência de ferramentas de inteligência artificial, incluindo Google Gemini e ChatGPT.
 
-My involvement included developing the product concept, defining features, planning the user experience, and guiding the development process.
+Minha participação envolveu a concepção da ideia, o planejamento das funcionalidades, a definição da experiência do usuário e o acompanhamento do processo de desenvolvimento.
 
-AI tools assisted with code generation, technical implementation, and project development.
+As ferramentas de inteligência artificial auxiliaram na geração de código, na implementação técnica e na construção da aplicação.
 
-Technologies and Tools
+Tecnologias e ferramentas utilizadas
 
-- Google Gemini: AI-assisted application development.
-- ChatGPT: Product planning, feature development, and AI assistance.
-- Firebase: Cloud-based application services.
-- Cloud Firestore (NoSQL): Cloud data storage and organization.
+- Google Gemini: assistência na geração de código e no desenvolvimento da aplicação.
+- ChatGPT: apoio ao planejamento, à estruturação das funcionalidades e ao desenvolvimento do projeto.
+- Firebase: serviços de infraestrutura para a aplicação.
+- Cloud Firestore (NoSQL): armazenamento e organização dos dados na nuvem.
 
-What I Learned
+Aprendizados
 
-This project gave me practical exposure to digital product planning, AI-assisted development, cloud databases, NoSQL concepts, and web application organization.
+O desenvolvimento do SelfChef proporcionou experiência prática com planejamento de produtos digitais, desenvolvimento assistido por inteligência artificial, organização de dados e utilização de bancos de dados NoSQL na nuvem.
 
-It also strengthened my interest in data technologies and how digital applications manage information.
+O projeto também contribuiu para ampliar meu interesse por tecnologias de dados e pelo funcionamento de aplicações digitais.
 
-Project Status
+Status do projeto
 
-Personal web application developed with AI assistance.
+Aplicação web pessoal desenvolvida com assistência de inteligência artificial.
 
-Copyright
+O aplicativo possui uma interface em português.
 
-© 2026 Caliny Silva. All rights reserved for original materials authored by me, to the extent permitted by applicable law.
+Direitos autorais
 
-This repository is intended for portfolio and demonstration purposes. No license is granted for commercial reuse of the protected materials presented here.
+© 2026 Caliny Silva. Todos os direitos reservados sobre os materiais originais de sua autoria, nos limites da legislação aplicável.
+
+Este repositório possui finalidade demonstrativa e de portfólio. Sua publicação não concede licença para reprodução ou exploração comercial dos materiais protegidos aqui apresentados.
