@@ -1,3 +1,5 @@
+![SelfChef](file_000000007d40820cbee521a7d09e8be3.png)
+
 SelfChef 🥗
 
 Healthy eating made simpler through smart meal planning.
